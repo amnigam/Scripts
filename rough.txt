@@ -1,9 +1,0 @@
-https://www.coca-colacompany.com/favicon.ico
-
-502768011  --> induscancer.com
-433465578  --> https://www.coca-colacompany.com/favicon.ico
-695627534  --> https://www.bpost.be/themes/custom/nbw/favicon.ico
-xxxxxxxx   --> https://www.bhp.com/favicon.ico
-
-For BHP the script didn't return a hash value. It went into some kind of loop.
-
